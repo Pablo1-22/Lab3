@@ -12,3 +12,7 @@ git rebase -i
 undo
 reset
 git commit --amend
+git tag
+git describe
+gti bisect
+
